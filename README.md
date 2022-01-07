@@ -1,5 +1,5 @@
 ### I'm Guilherme Kimoto 👋
-- 🔭 I’m currently working on AX4B Enterprise Solutions - Software Developer Júnior
+- 🔭 I’m currently working on AX4B Enterprise Solutions - Software Developer Plenum
 - 🌱 I’m currently learning React.JS and Node.JS
 - 📫 How to reach me: guilherme.kimoto@hotmail.com
 
@@ -10,5 +10,3 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node" width="40" heigth="40" style="max-width:100%;"></img>
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" heigth="40" style="max-width:100%;"></img>
 
-
-![GuiKimotoDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=guikimotodev&show_icons=true&theme=radical)
